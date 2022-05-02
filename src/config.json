@@ -1,0 +1,14 @@
+{
+	"owners": ["subolamayanpleb", "mojorect"],
+
+	"mojoToken": "5945yv097ecdvy86fgcb5qzyv9s2cw",
+
+	"clientId": "0c7y8jm4e5wgjxwehr3zd4ict8nevp",
+	"clientPassword": "xejcezfdjqvov1dwt7f845tje97oma",
+	"clientToken": "cmps130qix2jvp3u4zwutu8jp91ido",
+
+	"prefix": "!",
+	"mentionPrefix": true,
+
+	"debugMode": true
+}
